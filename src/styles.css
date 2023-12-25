@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+.app-heading {
+  text-align: center;
+}
+
+p {
+  font-family: Lato;
+}
+
+.section {
+  margin-top: 25px;
+}
+
+.nav-item {
+  margin: 0 2rem;
+}
+
+.nav-link {
+  cursor: pointer;
+}

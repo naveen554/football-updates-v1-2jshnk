@@ -1,0 +1,13 @@
+.team-name {
+  cursor: pointer;
+}
+
+.active {
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: white;
+}
+
+.active > .nav-link {
+  color: black;
+}
